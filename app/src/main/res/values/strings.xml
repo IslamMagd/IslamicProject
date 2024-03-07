@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IslamicApp</string>
+    <string name="to">الى</string>
+    <string name="from_page">من صفحه</string>
+    <string name="sora">سوره</string>
+    <string name="jozz">جزء</string>
+    <string name="page">صفحه</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aya_no">آية رقم</string>
+</resources>
