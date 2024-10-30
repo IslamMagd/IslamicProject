@@ -1,7 +1,4 @@
 # islamic app
-
-## Overview
- The Islamic application is and Android app developed using java.
  
  ## Screens
 <div>
